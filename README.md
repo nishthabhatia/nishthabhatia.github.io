@@ -1,2 +1,2 @@
 # nishthabhatia.github.io
-Personal website. Maybe. 
+Personal website -- made with Bootstrap and love.
