@@ -165,16 +165,14 @@ body {
     position: relative;
     top: -25px;
     margin-bottom: -50px;
-
-
 }
 
 
 
 .avatar img {
 
-    max-width: 300px;
-    max-height: 300px;
+    max-width: 250px;
+    max-height: 250px;
 
 
 
